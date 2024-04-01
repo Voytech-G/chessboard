@@ -1,1 +1,1 @@
-Simple Chessboard made with HTML & CSS.
+Simple chessboard made with HTML & CSS.
